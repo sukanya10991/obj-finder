@@ -1,0 +1,26 @@
+body {
+    background-image: url("2.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.amajin {
+    background-color: cornflowerblue;
+
+}
+
+#stats {
+    font-size: 28px !important;
+}
+
+canvas{
+    border-style: solid;
+    border-width: 5px;
+    padding:3px;
+    width:800px;
+    height:500px;
+    margin-top:300px;
+}
+#name{
+    color:black;
+}
